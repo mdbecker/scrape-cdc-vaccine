@@ -13,4 +13,4 @@ curl 'https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=vaccinat
   -H 'accept-language: en-US,en;q=0.9' \
   -H 'dnt: 1' \
   -H 'sec-gpc: 1' \
-  --compressed
+  --compressed | jq .
