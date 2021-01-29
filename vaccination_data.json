@@ -1,5 +1,5 @@
 {
-  "runid": 1765,
+  "runid": 1770,
   "vaccination_data": [
     {
       "Date": "2021-01-28",
@@ -14,7 +14,9 @@
       "Administered_Dose1": 85672,
       "Administered_Dose1_Per_100K": 11711,
       "Administered_Dose2": 20045,
-      "Administered_Dose2_Per_100K": 2740
+      "Administered_Dose2_Per_100K": 2740,
+      "Administered_Dose1_Pop_Pct": 11.71,
+      "Administered_Dose2_Pop_Pct": 2.74
     },
     {
       "Date": "2021-01-28",
@@ -29,7 +31,9 @@
       "Administered_Dose1": 241337,
       "Administered_Dose1_Per_100K": 4922,
       "Administered_Dose2": 37431,
-      "Administered_Dose2_Per_100K": 763
+      "Administered_Dose2_Per_100K": 763,
+      "Administered_Dose1_Pop_Pct": 4.92,
+      "Administered_Dose2_Pop_Pct": 0.76
     },
     {
       "Date": "2021-01-28",
@@ -44,7 +48,9 @@
       "Administered_Dose1": 209445,
       "Administered_Dose1_Per_100K": 6940,
       "Administered_Dose2": 40910,
-      "Administered_Dose2_Per_100K": 1356
+      "Administered_Dose2_Per_100K": 1356,
+      "Administered_Dose1_Pop_Pct": 6.94,
+      "Administered_Dose2_Pop_Pct": 1.36
     },
     {
       "Date": "2021-01-28",
@@ -59,7 +65,9 @@
       "Administered_Dose1": 8133,
       "Administered_Dose1_Per_100K": 14604,
       "Administered_Dose2": 950,
-      "Administered_Dose2_Per_100K": 1706
+      "Administered_Dose2_Per_100K": 1706,
+      "Administered_Dose1_Pop_Pct": 14.6,
+      "Administered_Dose2_Pop_Pct": 1.71
     },
     {
       "Date": "2021-01-28",
@@ -74,7 +82,9 @@
       "Administered_Dose1": 412841,
       "Administered_Dose1_Per_100K": 5672,
       "Administered_Dose2": 73927,
-      "Administered_Dose2_Per_100K": 1016
+      "Administered_Dose2_Per_100K": 1016,
+      "Administered_Dose1_Pop_Pct": 5.67,
+      "Administered_Dose2_Pop_Pct": 1.02
     },
     {
       "Date": "2021-01-28",
@@ -89,7 +99,9 @@
       "Administered_Dose1": 21081,
       "Administered_Dose1_Per_100K": 0,
       "Administered_Dose2": 7368,
-      "Administered_Dose2_Per_100K": 0
+      "Administered_Dose2_Per_100K": 0,
+      "Administered_Dose1_Pop_Pct": 0,
+      "Administered_Dose2_Pop_Pct": 0
     },
     {
       "Date": "2021-01-28",
@@ -104,7 +116,9 @@
       "Administered_Dose1": 2281453,
       "Administered_Dose1_Per_100K": 5774,
       "Administered_Dose2": 458585,
-      "Administered_Dose2_Per_100K": 1161
+      "Administered_Dose2_Per_100K": 1161,
+      "Administered_Dose1_Pop_Pct": 5.77,
+      "Administered_Dose2_Pop_Pct": 1.16
     },
     {
       "Date": "2021-01-28",
@@ -119,7 +133,9 @@
       "Administered_Dose1": 394156,
       "Administered_Dose1_Per_100K": 6844,
       "Administered_Dose2": 98663,
-      "Administered_Dose2_Per_100K": 1713
+      "Administered_Dose2_Per_100K": 1713,
+      "Administered_Dose1_Pop_Pct": 6.84,
+      "Administered_Dose2_Pop_Pct": 1.71
     },
     {
       "Date": "2021-01-28",
@@ -134,7 +150,9 @@
       "Administered_Dose1": 315317,
       "Administered_Dose1_Per_100K": 8844,
       "Administered_Dose2": 59437,
-      "Administered_Dose2_Per_100K": 1667
+      "Administered_Dose2_Per_100K": 1667,
+      "Administered_Dose1_Pop_Pct": 8.84,
+      "Administered_Dose2_Pop_Pct": 1.67
     },
     {
       "Date": "2021-01-28",
@@ -149,7 +167,9 @@
       "Administered_Dose1": 55599,
       "Administered_Dose1_Per_100K": 7878,
       "Administered_Dose2": 15177,
-      "Administered_Dose2_Per_100K": 2150
+      "Administered_Dose2_Per_100K": 2150,
+      "Administered_Dose1_Pop_Pct": 7.88,
+      "Administered_Dose2_Pop_Pct": 2.15
     },
     {
       "Date": "2021-01-28",
@@ -164,7 +184,9 @@
       "Administered_Dose1": 335627,
       "Administered_Dose1_Per_100K": 0,
       "Administered_Dose2": 46561,
-      "Administered_Dose2_Per_100K": 0
+      "Administered_Dose2_Per_100K": 0,
+      "Administered_Dose1_Pop_Pct": 0,
+      "Administered_Dose2_Pop_Pct": 0
     },
     {
       "Date": "2021-01-28",
@@ -179,7 +201,9 @@
       "Administered_Dose1": 68959,
       "Administered_Dose1_Per_100K": 7082,
       "Administered_Dose2": 13121,
-      "Administered_Dose2_Per_100K": 1347
+      "Administered_Dose2_Per_100K": 1347,
+      "Administered_Dose1_Pop_Pct": 7.08,
+      "Administered_Dose2_Pop_Pct": 1.35
     },
     {
       "Date": "2021-01-28",
@@ -194,7 +218,9 @@
       "Administered_Dose1": 1497903,
       "Administered_Dose1_Per_100K": 6974,
       "Administered_Dose2": 204623,
-      "Administered_Dose2_Per_100K": 953
+      "Administered_Dose2_Per_100K": 953,
+      "Administered_Dose1_Pop_Pct": 6.97,
+      "Administered_Dose2_Pop_Pct": 0.95
     },
     {
       "Date": "2021-01-28",
@@ -209,7 +235,9 @@
       "Administered_Dose1": 3471,
       "Administered_Dose1_Per_100K": 3349,
       "Administered_Dose2": 4,
-      "Administered_Dose2_Per_100K": 4
+      "Administered_Dose2_Per_100K": 4,
+      "Administered_Dose1_Pop_Pct": 3.35,
+      "Administered_Dose2_Pop_Pct": 0
     },
     {
       "Date": "2021-01-28",
@@ -224,7 +252,9 @@
       "Administered_Dose1": 659212,
       "Administered_Dose1_Per_100K": 6209,
       "Administered_Dose2": 89305,
-      "Administered_Dose2_Per_100K": 841
+      "Administered_Dose2_Per_100K": 841,
+      "Administered_Dose1_Pop_Pct": 6.21,
+      "Administered_Dose2_Pop_Pct": 0.84
     },
     {
       "Date": "2021-01-28",
@@ -239,7 +269,9 @@
       "Administered_Dose1": 15405,
       "Administered_Dose1_Per_100K": 9293,
       "Administered_Dose2": 3969,
-      "Administered_Dose2_Per_100K": 2394
+      "Administered_Dose2_Per_100K": 2394,
+      "Administered_Dose1_Pop_Pct": 9.29,
+      "Administered_Dose2_Pop_Pct": 2.39
     },
     {
       "Date": "2021-01-28",
@@ -254,7 +286,9 @@
       "Administered_Dose1": 84139,
       "Administered_Dose1_Per_100K": 5943,
       "Administered_Dose2": 19804,
-      "Administered_Dose2_Per_100K": 1399
+      "Administered_Dose2_Per_100K": 1399,
+      "Administered_Dose1_Pop_Pct": 5.94,
+      "Administered_Dose2_Pop_Pct": 1.4
     },
     {
       "Date": "2021-01-28",
@@ -269,7 +303,9 @@
       "Administered_Dose1": 169341,
       "Administered_Dose1_Per_100K": 5367,
       "Administered_Dose2": 40477,
-      "Administered_Dose2_Per_100K": 1283
+      "Administered_Dose2_Per_100K": 1283,
+      "Administered_Dose1_Pop_Pct": 5.37,
+      "Administered_Dose2_Pop_Pct": 1.28
     },
     {
       "Date": "2021-01-28",
@@ -284,7 +320,9 @@
       "Administered_Dose1": 85373,
       "Administered_Dose1_Per_100K": 4777,
       "Administered_Dose2": 16724,
-      "Administered_Dose2_Per_100K": 936
+      "Administered_Dose2_Per_100K": 936,
+      "Administered_Dose1_Pop_Pct": 4.78,
+      "Administered_Dose2_Pop_Pct": 0.94
     },
     {
       "Date": "2021-01-28",
@@ -299,7 +337,9 @@
       "Administered_Dose1": 144908,
       "Administered_Dose1_Per_100K": 0,
       "Administered_Dose2": 33645,
-      "Administered_Dose2_Per_100K": 0
+      "Administered_Dose2_Per_100K": 0,
+      "Administered_Dose1_Pop_Pct": 0,
+      "Administered_Dose2_Pop_Pct": 0
     },
     {
       "Date": "2021-01-28",
@@ -314,7 +354,9 @@
       "Administered_Dose1": 643555,
       "Administered_Dose1_Per_100K": 5079,
       "Administered_Dose2": 162086,
-      "Administered_Dose2_Per_100K": 1279
+      "Administered_Dose2_Per_100K": 1279,
+      "Administered_Dose1_Pop_Pct": 5.08,
+      "Administered_Dose2_Pop_Pct": 1.28
     },
     {
       "Date": "2021-01-28",
@@ -329,7 +371,9 @@
       "Administered_Dose1": 454380,
       "Administered_Dose1_Per_100K": 6749,
       "Administered_Dose2": 97614,
-      "Administered_Dose2_Per_100K": 1450
+      "Administered_Dose2_Per_100K": 1450,
+      "Administered_Dose1_Pop_Pct": 6.75,
+      "Administered_Dose2_Pop_Pct": 1.45
     },
     {
       "Date": "2021-01-28",
@@ -344,7 +388,9 @@
       "Administered_Dose1": 157536,
       "Administered_Dose1_Per_100K": 5407,
       "Administered_Dose2": 31429,
-      "Administered_Dose2_Per_100K": 1079
+      "Administered_Dose2_Per_100K": 1079,
+      "Administered_Dose1_Pop_Pct": 5.41,
+      "Administered_Dose2_Pop_Pct": 1.08
     },
     {
       "Date": "2021-01-28",
@@ -359,7 +405,9 @@
       "Administered_Dose1": 297108,
       "Administered_Dose1_Per_100K": 6650,
       "Administered_Dose2": 43142,
-      "Administered_Dose2_Per_100K": 966
+      "Administered_Dose2_Per_100K": 966,
+      "Administered_Dose1_Pop_Pct": 6.65,
+      "Administered_Dose2_Pop_Pct": 0.97
     },
     {
       "Date": "2021-01-28",
@@ -374,7 +422,9 @@
       "Administered_Dose1": 323609,
       "Administered_Dose1_Per_100K": 6961,
       "Administered_Dose2": 51583,
-      "Administered_Dose2_Per_100K": 1110
+      "Administered_Dose2_Per_100K": 1110,
+      "Administered_Dose1_Pop_Pct": 6.96,
+      "Administered_Dose2_Pop_Pct": 1.11
     },
     {
       "Date": "2021-01-28",
@@ -389,7 +439,9 @@
       "Administered_Dose1": 406024,
       "Administered_Dose1_Per_100K": 5891,
       "Administered_Dose2": 83637,
-      "Administered_Dose2_Per_100K": 1213
+      "Administered_Dose2_Per_100K": 1213,
+      "Administered_Dose1_Pop_Pct": 5.89,
+      "Administered_Dose2_Pop_Pct": 1.21
     },
     {
       "Date": "2021-01-28",
@@ -404,7 +456,9 @@
       "Administered_Dose1": 355484,
       "Administered_Dose1_Per_100K": 5880,
       "Administered_Dose2": 56274,
-      "Administered_Dose2_Per_100K": 931
+      "Administered_Dose2_Per_100K": 931,
+      "Administered_Dose1_Pop_Pct": 5.88,
+      "Administered_Dose2_Pop_Pct": 0.93
     },
     {
       "Date": "2021-01-28",
@@ -419,7 +473,9 @@
       "Administered_Dose1": 88878,
       "Administered_Dose1_Per_100K": 6612,
       "Administered_Dose2": 24925,
-      "Administered_Dose2_Per_100K": 1854
+      "Administered_Dose2_Per_100K": 1854,
+      "Administered_Dose1_Pop_Pct": 6.61,
+      "Administered_Dose2_Pop_Pct": 1.85
     },
     {
       "Date": "2021-01-28",
@@ -434,7 +490,9 @@
       "Administered_Dose1": 3594,
       "Administered_Dose1_Per_100K": 6153,
       "Administered_Dose2": 129,
-      "Administered_Dose2_Per_100K": 221
+      "Administered_Dose2_Per_100K": 221,
+      "Administered_Dose1_Pop_Pct": 6.15,
+      "Administered_Dose2_Pop_Pct": 0.22
     },
     {
       "Date": "2021-01-28",
@@ -449,7 +507,9 @@
       "Administered_Dose1": 659118,
       "Administered_Dose1_Per_100K": 6600,
       "Administered_Dose2": 143757,
-      "Administered_Dose2_Per_100K": 1439
+      "Administered_Dose2_Per_100K": 1439,
+      "Administered_Dose1_Pop_Pct": 6.6,
+      "Administered_Dose2_Pop_Pct": 1.44
     },
     {
       "Date": "2021-01-28",
@@ -464,7 +524,9 @@
       "Administered_Dose1": 315664,
       "Administered_Dose1_Per_100K": 5597,
       "Administered_Dose2": 87269,
-      "Administered_Dose2_Per_100K": 1547
+      "Administered_Dose2_Per_100K": 1547,
+      "Administered_Dose1_Pop_Pct": 5.6,
+      "Administered_Dose2_Pop_Pct": 1.55
     },
     {
       "Date": "2021-01-28",
@@ -479,7 +541,9 @@
       "Administered_Dose1": 294872,
       "Administered_Dose1_Per_100K": 4804,
       "Administered_Dose2": 85827,
-      "Administered_Dose2_Per_100K": 1398
+      "Administered_Dose2_Per_100K": 1398,
+      "Administered_Dose1_Pop_Pct": 4.8,
+      "Administered_Dose2_Pop_Pct": 1.4
     },
     {
       "Date": "2021-01-28",
@@ -494,7 +558,9 @@
       "Administered_Dose1": 6189,
       "Administered_Dose1_Per_100K": 10880,
       "Administered_Dose2": 3058,
-      "Administered_Dose2_Per_100K": 5376
+      "Administered_Dose2_Per_100K": 5376,
+      "Administered_Dose1_Pop_Pct": 10.88,
+      "Administered_Dose2_Pop_Pct": 5.38
     },
     {
       "Date": "2021-01-28",
@@ -509,7 +575,9 @@
       "Administered_Dose1": 181550,
       "Administered_Dose1_Per_100K": 6100,
       "Administered_Dose2": 19475,
-      "Administered_Dose2_Per_100K": 654
+      "Administered_Dose2_Per_100K": 654,
+      "Administered_Dose1_Pop_Pct": 6.1,
+      "Administered_Dose2_Pop_Pct": 0.65
     },
     {
       "Date": "2021-01-28",
@@ -524,7 +592,9 @@
       "Administered_Dose1": 68032,
       "Administered_Dose1_Per_100K": 6365,
       "Administered_Dose2": 18149,
-      "Administered_Dose2_Per_100K": 1698
+      "Administered_Dose2_Per_100K": 1698,
+      "Administered_Dose1_Pop_Pct": 6.37,
+      "Administered_Dose2_Pop_Pct": 1.7
     },
     {
       "Date": "2021-01-28",
@@ -539,7 +609,9 @@
       "Administered_Dose1": 728551,
       "Administered_Dose1_Per_100K": 6946,
       "Administered_Dose2": 120480,
-      "Administered_Dose2_Per_100K": 1149
+      "Administered_Dose2_Per_100K": 1149,
+      "Administered_Dose1_Pop_Pct": 6.95,
+      "Administered_Dose2_Pop_Pct": 1.15
     },
     {
       "Date": "2021-01-28",
@@ -554,7 +626,9 @@
       "Administered_Dose1": 60164,
       "Administered_Dose1_Per_100K": 7895,
       "Administered_Dose2": 18244,
-      "Administered_Dose2_Per_100K": 2394
+      "Administered_Dose2_Per_100K": 2394,
+      "Administered_Dose1_Pop_Pct": 7.89,
+      "Administered_Dose2_Pop_Pct": 2.39
     },
     {
       "Date": "2021-01-28",
@@ -569,7 +643,9 @@
       "Administered_Dose1": 116769,
       "Administered_Dose1_Per_100K": 6036,
       "Administered_Dose2": 32380,
-      "Administered_Dose2_Per_100K": 1674
+      "Administered_Dose2_Per_100K": 1674,
+      "Administered_Dose1_Pop_Pct": 6.04,
+      "Administered_Dose2_Pop_Pct": 1.67
     },
     {
       "Date": "2021-01-28",
@@ -584,7 +660,9 @@
       "Administered_Dose1": 88624,
       "Administered_Dose1_Per_100K": 6518,
       "Administered_Dose2": 21781,
-      "Administered_Dose2_Per_100K": 1602
+      "Administered_Dose2_Per_100K": 1602,
+      "Administered_Dose1_Pop_Pct": 6.52,
+      "Administered_Dose2_Pop_Pct": 1.6
     },
     {
       "Date": "2021-01-28",
@@ -599,7 +677,9 @@
       "Administered_Dose1": 558156,
       "Administered_Dose1_Per_100K": 6284,
       "Administered_Dose2": 88198,
-      "Administered_Dose2_Per_100K": 993
+      "Administered_Dose2_Per_100K": 993,
+      "Administered_Dose1_Pop_Pct": 6.28,
+      "Administered_Dose2_Pop_Pct": 0.99
     },
     {
       "Date": "2021-01-28",
@@ -614,7 +694,9 @@
       "Administered_Dose1": 180272,
       "Administered_Dose1_Per_100K": 8597,
       "Administered_Dose2": 41669,
-      "Administered_Dose2_Per_100K": 1987
+      "Administered_Dose2_Per_100K": 1987,
+      "Administered_Dose1_Pop_Pct": 8.6,
+      "Administered_Dose2_Pop_Pct": 1.99
     },
     {
       "Date": "2021-01-28",
@@ -629,7 +711,9 @@
       "Administered_Dose1": 167481,
       "Administered_Dose1_Per_100K": 5437,
       "Administered_Dose2": 26327,
-      "Administered_Dose2_Per_100K": 855
+      "Administered_Dose2_Per_100K": 855,
+      "Administered_Dose1_Pop_Pct": 5.44,
+      "Administered_Dose2_Pop_Pct": 0.85
     },
     {
       "Date": "2021-01-28",
@@ -644,7 +728,9 @@
       "Administered_Dose1": 1320572,
       "Administered_Dose1_Per_100K": 6788,
       "Administered_Dose2": 238722,
-      "Administered_Dose2_Per_100K": 1227
+      "Administered_Dose2_Per_100K": 1227,
+      "Administered_Dose1_Pop_Pct": 6.79,
+      "Administered_Dose2_Pop_Pct": 1.23
     },
     {
       "Date": "2021-01-28",
@@ -659,7 +745,9 @@
       "Administered_Dose1": 683323,
       "Administered_Dose1_Per_100K": 5846,
       "Administered_Dose2": 106035,
-      "Administered_Dose2_Per_100K": 907
+      "Administered_Dose2_Per_100K": 907,
+      "Administered_Dose1_Pop_Pct": 5.85,
+      "Administered_Dose2_Pop_Pct": 0.91
     },
     {
       "Date": "2021-01-28",
@@ -674,7 +762,9 @@
       "Administered_Dose1": 308458,
       "Administered_Dose1_Per_100K": 7795,
       "Administered_Dose2": 52465,
-      "Administered_Dose2_Per_100K": 1326
+      "Administered_Dose2_Per_100K": 1326,
+      "Administered_Dose1_Pop_Pct": 7.8,
+      "Administered_Dose2_Pop_Pct": 1.33
     },
     {
       "Date": "2021-01-28",
@@ -689,7 +779,9 @@
       "Administered_Dose1": 285528,
       "Administered_Dose1_Per_100K": 6770,
       "Administered_Dose2": 53662,
-      "Administered_Dose2_Per_100K": 1272
+      "Administered_Dose2_Per_100K": 1272,
+      "Administered_Dose1_Pop_Pct": 6.77,
+      "Administered_Dose2_Pop_Pct": 1.27
     },
     {
       "Date": "2021-01-28",
@@ -704,7 +796,9 @@
       "Administered_Dose1": 695656,
       "Administered_Dose1_Per_100K": 5434,
       "Administered_Dose2": 159259,
-      "Administered_Dose2_Per_100K": 1244
+      "Administered_Dose2_Per_100K": 1244,
+      "Administered_Dose1_Pop_Pct": 5.43,
+      "Administered_Dose2_Pop_Pct": 1.24
     },
     {
       "Date": "2021-01-28",
@@ -719,7 +813,9 @@
       "Administered_Dose1": 165862,
       "Administered_Dose1_Per_100K": 5193,
       "Administered_Dose2": 45057,
-      "Administered_Dose2_Per_100K": 1411
+      "Administered_Dose2_Per_100K": 1411,
+      "Administered_Dose1_Pop_Pct": 5.19,
+      "Administered_Dose2_Pop_Pct": 1.41
     },
     {
       "Date": "2021-01-28",
@@ -734,7 +830,9 @@
       "Administered_Dose1": 61554,
       "Administered_Dose1_Per_100K": 5810,
       "Administered_Dose2": 18562,
-      "Administered_Dose2_Per_100K": 1752
+      "Administered_Dose2_Per_100K": 1752,
+      "Administered_Dose1_Pop_Pct": 5.81,
+      "Administered_Dose2_Pop_Pct": 1.75
     },
     {
       "Date": "2021-01-28",
@@ -749,7 +847,9 @@
       "Administered_Dose1": 3067,
       "Administered_Dose1_Per_100K": 17127,
       "Administered_Dose2": 0,
-      "Administered_Dose2_Per_100K": 0
+      "Administered_Dose2_Per_100K": 0,
+      "Administered_Dose1_Pop_Pct": 17.13,
+      "Administered_Dose2_Pop_Pct": 0
     },
     {
       "Date": "2021-01-28",
@@ -764,7 +864,9 @@
       "Administered_Dose1": 302890,
       "Administered_Dose1_Per_100K": 5883,
       "Administered_Dose2": 55183,
-      "Administered_Dose2_Per_100K": 1072
+      "Administered_Dose2_Per_100K": 1072,
+      "Administered_Dose1_Pop_Pct": 5.88,
+      "Administered_Dose2_Pop_Pct": 1.07
     },
     {
       "Date": "2021-01-28",
@@ -779,7 +881,9 @@
       "Administered_Dose1": 67171,
       "Administered_Dose1_Per_100K": 7593,
       "Administered_Dose2": 24543,
-      "Administered_Dose2_Per_100K": 2774
+      "Administered_Dose2_Per_100K": 2774,
+      "Administered_Dose1_Pop_Pct": 7.59,
+      "Administered_Dose2_Pop_Pct": 2.77
     },
     {
       "Date": "2021-01-28",
@@ -794,7 +898,9 @@
       "Administered_Dose1": 385682,
       "Administered_Dose1_Per_100K": 5648,
       "Administered_Dose2": 123116,
-      "Administered_Dose2_Per_100K": 1803
+      "Administered_Dose2_Per_100K": 1803,
+      "Administered_Dose1_Pop_Pct": 5.65,
+      "Administered_Dose2_Pop_Pct": 1.8
     },
     {
       "Date": "2021-01-28",
@@ -809,7 +915,9 @@
       "Administered_Dose1": 1731725,
       "Administered_Dose1_Per_100K": 5972,
       "Administered_Dose2": 373624,
-      "Administered_Dose2_Per_100K": 1289
+      "Administered_Dose2_Per_100K": 1289,
+      "Administered_Dose1_Pop_Pct": 5.97,
+      "Administered_Dose2_Pop_Pct": 1.29
     },
     {
       "Date": "2021-01-28",
@@ -824,7 +932,9 @@
       "Administered_Dose1": 201134,
       "Administered_Dose1_Per_100K": 6274,
       "Administered_Dose2": 30065,
-      "Administered_Dose2_Per_100K": 938
+      "Administered_Dose2_Per_100K": 938,
+      "Administered_Dose1_Pop_Pct": 6.27,
+      "Administered_Dose2_Pop_Pct": 0.94
     },
     {
       "Date": "2021-01-28",
@@ -839,7 +949,9 @@
       "Administered_Dose1": 552909,
       "Administered_Dose1_Per_100K": 6478,
       "Administered_Dose2": 89645,
-      "Administered_Dose2_Per_100K": 1050
+      "Administered_Dose2_Per_100K": 1050,
+      "Administered_Dose1_Pop_Pct": 6.48,
+      "Administered_Dose2_Pop_Pct": 1.05
     },
     {
       "Date": "2021-01-28",
@@ -854,7 +966,9 @@
       "Administered_Dose1": 655236,
       "Administered_Dose1_Per_100K": 0,
       "Administered_Dose2": 136319,
-      "Administered_Dose2_Per_100K": 0
+      "Administered_Dose2_Per_100K": 0,
+      "Administered_Dose1_Pop_Pct": 0,
+      "Administered_Dose2_Pop_Pct": 0
     },
     {
       "Date": "2021-01-28",
@@ -869,7 +983,9 @@
       "Administered_Dose1": 3901,
       "Administered_Dose1_Per_100K": 3727,
       "Administered_Dose2": 719,
-      "Administered_Dose2_Per_100K": 687
+      "Administered_Dose2_Per_100K": 687,
+      "Administered_Dose1_Pop_Pct": 3.73,
+      "Administered_Dose2_Pop_Pct": 0.69
     },
     {
       "Date": "2021-01-28",
@@ -884,7 +1000,9 @@
       "Administered_Dose1": 46376,
       "Administered_Dose1_Per_100K": 7432,
       "Administered_Dose2": 12418,
-      "Administered_Dose2_Per_100K": 1990
+      "Administered_Dose2_Per_100K": 1990,
+      "Administered_Dose1_Pop_Pct": 7.43,
+      "Administered_Dose2_Pop_Pct": 1.99
     },
     {
       "Date": "2021-01-28",
@@ -899,7 +1017,9 @@
       "Administered_Dose1": 468528,
       "Administered_Dose1_Per_100K": 6153,
       "Administered_Dose2": 91733,
-      "Administered_Dose2_Per_100K": 1205
+      "Administered_Dose2_Per_100K": 1205,
+      "Administered_Dose1_Pop_Pct": 6.15,
+      "Administered_Dose2_Pop_Pct": 1.2
     },
     {
       "Date": "2021-01-28",
@@ -914,7 +1034,9 @@
       "Administered_Dose1": 302339,
       "Administered_Dose1_Per_100K": 5193,
       "Administered_Dose2": 57508,
-      "Administered_Dose2_Per_100K": 988
+      "Administered_Dose2_Per_100K": 988,
+      "Administered_Dose1_Pop_Pct": 5.19,
+      "Administered_Dose2_Pop_Pct": 0.99
     },
     {
       "Date": "2021-01-28",
@@ -929,7 +1051,9 @@
       "Administered_Dose1": 173750,
       "Administered_Dose1_Per_100K": 9695,
       "Administered_Dose2": 50843,
-      "Administered_Dose2_Per_100K": 2837
+      "Administered_Dose2_Per_100K": 2837,
+      "Administered_Dose1_Pop_Pct": 9.7,
+      "Administered_Dose2_Pop_Pct": 2.84
     },
     {
       "Date": "2021-01-28",
@@ -944,7 +1068,9 @@
       "Administered_Dose1": 37963,
       "Administered_Dose1_Per_100K": 6559,
       "Administered_Dose2": 5419,
-      "Administered_Dose2_Per_100K": 936
+      "Administered_Dose2_Per_100K": 936,
+      "Administered_Dose1_Pop_Pct": 6.56,
+      "Administered_Dose2_Pop_Pct": 0.94
     },
     {
       "Date": "2021-01-28",
@@ -958,14 +1084,18 @@
       "Administered_Dose2": 4263056,
       "Administered_Moderna": 11737592,
       "Administered_Pfizer": 14355980,
-      "Administered_Unk_Manuf": 100110
+      "Administered_Unk_Manuf": 100110,
+      "Administered_Dose1_Pop_Pct": 6.54,
+      "Administered_Dose2_Pop_Pct": 1.28
     },
     {
       "Date": "2021-01-28",
       "Location": "LTC",
       "ShortName": "LTC",
       "LongName": "Long Term Care",
-      "Doses_Administered": 3102134
+      "Doses_Administered": 3102134,
+      "Administered_Dose1_Pop_Pct": 0,
+      "Administered_Dose2_Pop_Pct": 0
     }
   ]
 }
