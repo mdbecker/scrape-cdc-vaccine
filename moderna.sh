@@ -1,4 +1,4 @@
-curl 'https://data.cdc.gov/resource/b7pe-5nws.csv' \
+curl 'https://data.cdc.gov/resource/b7pe-5nws.csv#$(date +%s)' \
   -H 'Connection: keep-alive' \
   -H 'Pragma: no-cache' \
   -H 'Cache-Control: no-cache' \

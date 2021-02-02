@@ -1,4 +1,4 @@
-curl 'https://data.cdc.gov/resource/saz5-9hgg.csv' \
+curl 'https://data.cdc.gov/resource/saz5-9hgg.csv#$(date +%s)' \
   -H 'Connection: keep-alive' \
   -H 'Pragma: no-cache' \
   -H 'Cache-Control: no-cache' \
