@@ -17,7 +17,7 @@ jobs:
         bash pfizer.sh > pfizer.csv
     - name: Fetch moderna data
       run: |-
-        bash moderna.sh > moderna.csv
+        bash moderna.sh
     - name: Fetch vaccination data
       run: |-
         bash vaccination_data.sh > vaccination_data.json
