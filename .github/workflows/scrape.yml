@@ -21,6 +21,9 @@ jobs:
     - name: Fetch vaccination data
       run: |-
         bash vaccination_data.sh > vaccination_data.json
+    - name: Fetch vaccination trends
+      run: |-
+        bash vaccination_trends.sh > vaccination_trends.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
