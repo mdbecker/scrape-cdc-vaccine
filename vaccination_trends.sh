@@ -1,0 +1,17 @@
+curl 'https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=vaccination_trends_data' \
+  -H 'authority: covid.cdc.gov' \
+  -H 'pragma: no-cache' \
+  -H 'cache-control: no-cache' \
+  -H 'sec-ch-ua: "Google Chrome";v="87", " Not;A Brand";v="99", "Chromium";v="87"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://covid.cdc.gov/covid-data-tracker/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: s_fid=0E380C2BA3124337-16569A7ED58F723E; AMCVS_66818A1A54FA2E890A4C98A6%40AdobeOrg=1; s_cc=true; AMCV_66818A1A54FA2E890A4C98A6%40AdobeOrg=1585540135%7CMCMID%7C43057109762385976315367974982372061341%7CMCOPTOUT-1611810725s%7CNONE%7CvVersion%7C4.4.0; TS015c6dba=015d0abe870abceac0b8ea3085dec8f8238822486b00285cc29916ff5b78fd57617a84226cd888753ba97b52e3db46ae350e8c7ad9; RT="z=1&dm=cdc.gov&si=bl8x95clow&ss=kkramzfl&sl=0&tt=0"; s_vnum=1614574800501%26vn%3D2; s_invisit=true; s_lv_s=Less%20than%207%20days; s_visit=1; s_ppvl=CDC%2520COVID%2520Data%2520Tracker%2520-%2520datatracker-home%2C15%2C90%2C2876%2C1280%2C618%2C1280%2C720%2C1%2CL; s_ptc=0.00%5E%5E0.04%5E%5E0.00%5E%5E0.07%5E%5E5.69%5E%5E0.06%5E%5E1.99%5E%5E0.00%5E%5E7.85; s_ppv=CDC%2520COVID%2520Data%2520Tracker%2520-%2520datatracker-home%2C24%2C93%2C6255%2C1280%2C364%2C1280%2C720%2C1%2CL; s_tps=269; gpv_c54=https%3A%2F%2Fcovid.cdc.gov%2Fcovid-data-tracker%2F%23vaccination-trends; s_lv=1612469652833; gpv_v45=CDC%20COVID%20Data%20Tracker%20-%20vaccination-trends; s_sq=%5B%5BB%5D%5D; s_pvs=2383; _4c_=jVRdb5swFP0rE5P2VBKMwR%2BVqikhbMm0lK5Em7aXiGCTeKGAwEnWVf3vuw6mrTZpGy%2Bce7hfvpzrB%2Be0k5VziQjyA8JJ6LOQXDh7ed85lw9Oq4R5HZ1LR9IsC0lB3KDAhRsIj7qZZMQloYdDxkOZS%2BlcOD%2FOuUiIKGccU%2FR44eSNzfHgHNoSUu20brrL8Tivj0qMcpGPtvWxt1yR6czVbZbvZTt%2BfczyXFWZVnXVQfK8FhLiER%2FREQFb%2FwTLxZ4HuGlrccj1Wt83xuckN686sYcPQh5VLtcnJfTOBPvMe2Z3Um13Gmjqn9mmNS6ATqoS9en3KMs%2BRWESALuqm5WSJhKMJI0%2FphZOZlGP3pUHAF8BXUfzebq66elF9f3Q3vc4vrntQVTf3R0qpe%2FfH9T5uIbbtXWl8t64jha3s6d08bfFYCTp6uPK1n5f1pusnMusPPcPzGSVzm6HDPG8R2mTVaqzHsvlF%2BswVa3ezWQhc93ZkEWS2pjkZj70mkRJYmMXqUUf6o2N%2Bab2WY82bX3qzhMyJ7mTrxgFtjZ%2ByywH2EKtth1m2CltDm6VYQnQZM%2BZusvV7XoaT6Lk%2BqWewB8hf%2BTXdFRJPd6Mu86QRl1o%2FCF14ZM38sadzwjHhHiEMxKQt5NP0yv0plDiyosx8yJ%2FOsGwDhhTF5RM%2BITGs5C9oz6O30w%2BxVdGH43ZCfPzyzrPStMtrBEMeZZM43Uap%2BkiuV6f%2F8w%2FcxoFtWq7le1S6l0NGwd2JpRRfVYaVcKCwoSE7NTWFBFGemDtdd28oKPk82LmIm7VICvTYqe3w7yW0bmfAHshRR6nxMcshBdGISaU04AzH8MeEIQDc8RuXZj1%2F48DPA5774ch8cwd4sNyath1mK9nHvA4quEqCXzGN9KXLi%2FExg1Yzl22KTy3KLgQvAhylj1fJX5AEcZwwWCbErEhY1PajOjZmWHKAoLo4Bw81W%2BO1jt40W3IMfdQ8Ge3vWLXoJ6%2FxIW%2Fxz0%2B%2FgI%3D' \
+  -H 'dnt: 1' \
+  -H 'sec-gpc: 1' \
+  --compressed | jq .
