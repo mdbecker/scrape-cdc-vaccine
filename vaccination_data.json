@@ -1,5 +1,5 @@
 {
-  "runid": 1816,
+  "runid": 1817,
   "vaccination_data": [
     {
       "Date": "2021-02-20",
@@ -1078,7 +1078,7 @@
       "ShortName": "USA",
       "LongName": "United States",
       "Census2019": 331996199,
-      "Doses_Distributed": 79128495,
+      "Doses_Distributed": 74979165,
       "Doses_Administered": 61289500,
       "Administered_Dose1": 42809595,
       "Administered_Dose2": 17895667,
